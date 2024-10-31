@@ -1,0 +1,13 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ .menu-items {
+     display: flex;
+     flex-direction: row;
+ }
+
+ .main-section {
+     margin-top: -40px;
+ }
